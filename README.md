@@ -27,9 +27,9 @@ Output: Strong Password
 
 ## 🚀 Future Improvements
 
-* Detect common passwords (e.g., "123456", "password") : 🥊
-* Identify repeating or sequential patterns : 🥊
-* Add a scoring logic : 🥊
+* Detect common passwords (e.g., "123456", "password") : ✅
+* Identify repeating or sequential patterns : ✅
+* Add a scoring logic : ✅
 * Build a graphical user interface (GUI) : ?
 
 ## 📚 What I Learned
